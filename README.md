@@ -4,7 +4,7 @@
 
 💻 Passionate about:
 - Software engineering
-- Backend development
+- Backend and Frontend development
 - Mobile apps
 - Startups and tech
 
