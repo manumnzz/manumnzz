@@ -42,5 +42,5 @@
 ## 🚀 Featured Projects
 
 - StreetAsk – Real-time Q&A app
-- Acme-Starters – Invention management system
-- MovieHub – Movie dataset platform
+- DeliverUS – Online food delivery app
+- Natursur – Sports Center Management System
