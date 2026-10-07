@@ -35,7 +35,7 @@
 ## 🌍 Languages
 
 - Spanish 🇪🇸 Native
-- English 🇬🇧 B2
+- English 🇬🇧 B2 - applying to the C1 level
 
 ---
 
@@ -44,3 +44,4 @@
 - StreetAsk – Real-time Q&A app
 - DeliverUS – Online food delivery app
 - Natursur – Sports Center Management System
+- WebAgent - Agent-based system for automated website generation
